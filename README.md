@@ -4,23 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;AI+%26+ML+Enthusiast;Building+Dreams+Among+The+Stars+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C8B6FF&center=true&vCenter=true&width=900&lines=%E2%9D%AF+python+niharika.py;Loading+Creativity...;Building+Intelligent+Solutions...;Training+AI+Models...;Turning+Data+Into+Insights...;Deploying+Dreams...;Mission%3A+Reach+The+Stars+%F0%9F%9A%80"/>
 
-</div>
-
-# ✨ Welcome to My Universe ✨
-
-<div align="center">
-
-*"Every project begins as a tiny star.*
-
-*With enough curiosity, it becomes a galaxy."*
-
-</div>
 
 <img src="assets/stars.svg" width="100%"/>
 
 <br>
+
+<img src="assets/wave.svg" width="100%"/>
 
 # 🌙 About Me
 
@@ -70,7 +61,6 @@ Life Philosophy:
 ████████████░░░░░░░░ 60%
 ```
 
-<img src="assets/wave.svg" width="100%"/>
 
 # ⭐ Tech Galaxy
 
