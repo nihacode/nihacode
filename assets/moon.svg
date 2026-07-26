@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+
+<defs>
+
+<radialGradient id="glow">
+<stop offset="0%" stop-color="#FFFFFF"/>
+<stop offset="55%" stop-color="#DDD6FE"/>
+<stop offset="100%" stop-color="#DDD6FE" stop-opacity="0"/>
+</radialGradient>
+
+</defs>
+
+<circle cx="90" cy="90" r="70"
+fill="url(#glow)">
+
+<animate
+attributeName="r"
+values="70;80;70"
+dur="5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+cx="90"
+cy="90"
+r="42"
+fill="#FFFFFF">
+
+<animate
+attributeName="opacity"
+values=".95;1;.95"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="75" cy="72" r="5" fill="#EEF2FF" opacity=".45"/>
+<circle cx="108" cy="104" r="4" fill="#EEF2FF" opacity=".35"/>
+<circle cx="82" cy="110" r="3" fill="#EEF2FF" opacity=".25"/>
+
+</svg>

@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="320"
+height="320"
+viewBox="0 0 320 320">
+
+<defs>
+
+<linearGradient id="body"
+x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#FFFFFF"/>
+<stop offset="100%" stop-color="#CBD5E1"/>
+</linearGradient>
+
+<linearGradient id="wing"
+x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#8B5CF6"/>
+<stop offset="100%" stop-color="#4F46E5"/>
+</linearGradient>
+
+<linearGradient id="flame"
+x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#FACC15"/>
+<stop offset="50%" stop-color="#F97316"/>
+<stop offset="100%" stop-color="#DC2626"/>
+</linearGradient>
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="5" result="blur"/>
+
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+
+</filter>
+
+</defs>
+
+<!-- Rocket -->
+
+<g>
+
+<animateTransform
+
+attributeName="transform"
+
+type="translate"
+
+values="0 8;0 -8;0 8"
+
+dur="3s"
+
+repeatCount="indefinite"/>
+
+<!-- Flame -->
+
+<path
+
+d="M160 250
+C148 275 150 295 160 310
+C170 295 172 275 160 250"
+
+fill="url(#flame)"
+filter="url(#glow)">
+
+<animate
+
+attributeName="d"
+
+dur="0.4s"
+
+repeatCount="indefinite"
+
+values="
+
+M160 250
+C148 275 150 295 160 310
+C170 295 172 275 160 250;
+
+M160 250
+C145 285 150 315 160 300
+C170 315 175 285 160 250;
+
+M160 250
+C148 275 150 295 160 310
+C170 295 172 275 160 250
+
+"/>
+
+</path>
+
+<!-- Rocket Body -->
+
+<path
+
+d="M160 45
+C190 75 200 120 195 200
+L125 200
+C120 120 130 75 160 45Z"
+
+fill="url(#body)"
+filter="url(#glow)"/>
+
+<!-- Window -->
+
+<circle
+cx="160"
+cy="110"
+r="18"
+fill="#3B82F6"/>
+
+<circle
+cx="160"
+cy="110"
+r="10"
+fill="#DBEAFE"/>
+
+<!-- Left Wing -->
+
+<path
+
+d="M125 175
+L90 215
+L125 205"
+
+fill="url(#wing)"/>
+
+<!-- Right Wing -->
+
+<path
+
+d="M195 175
+L230 215
+L195 205"
+
+fill="url(#wing)"/>
+
+<!-- Bottom Fins -->
+
+<path
+
+d="M140 200
+L125 230
+L145 220Z"
+
+fill="url(#wing)"/>
+
+<path
+
+d="M180 200
+L195 230
+L175 220Z"
+
+fill="url(#wing)"/>
+
+</g>
+
+<!-- Stars -->
+
+<g fill="white">
+
+<circle cx="40" cy="60" r="2">
+<animate attributeName="opacity"
+values="1;.2;1"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="290" cy="70" r="2">
+<animate attributeName="opacity"
+values=".2;1;.2"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="55" cy="260" r="2">
+<animate attributeName="opacity"
+values="1;.3;1"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="270" cy="250" r="2">
+<animate attributeName="opacity"
+values=".2;1;.2"
+dur="4.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="160" cy="25" r="2">
+<animate attributeName="opacity"
+values="1;.3;1"
+dur="2.8s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- Engine Glow -->
+
+<circle
+
+cx="160"
+
+cy="245"
+
+r="12"
+
+fill="#FBBF24"
+
+opacity=".35">
+
+<animate
+
+attributeName="r"
+
+values="12;18;12"
+
+dur=".5s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+</svg>
