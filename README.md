@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="assets/banner.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;AI%2FML+Enthusiast;Building+Dreams+Among+the+Stars+✨"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;AI+%26+ML+Enthusiast;Building+Dreams+Among+The+Stars+✨"/>
 
 </div>
 
-<img src="assets/header-bg.svg" width="100%"/>
+# ✨ Welcome to My Universe ✨
 
 <div align="center">
-
-# ✨ Welcome to My Universe ✨
 
 *"Every project begins as a tiny star.*
 
@@ -18,7 +18,9 @@
 
 </div>
 
-<img src="assets/wave.svg" width="100%"/>
+<img src="assets/stars.svg" width="100%"/>
+
+<br>
 
 # 🌙 About Me
 
@@ -27,10 +29,10 @@ Name: Niharika Singh
 
 Location: Mumbai, India
 
-Role:
+Roles:
   - Software Developer
   - Data Analyst
-  - AI/ML Enthusiast
+  - AI & ML Enthusiast
 
 Currently Learning:
   - Deep Learning
@@ -50,7 +52,7 @@ Life Philosophy:
    Keep shining."
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="assets/stars.svg" width="100%"/>
 
 # 🚀 Current Mission
 
@@ -68,7 +70,7 @@ Life Philosophy:
 ████████████░░░░░░░░ 60%
 ```
 
-<img src="assets/constellation.svg" width="100%"/>
+<img src="assets/wave.svg" width="100%"/>
 
 # ⭐ Tech Galaxy
 
@@ -78,21 +80,15 @@ Life Philosophy:
 
 </div>
 
----
+<img src="assets/stars.svg" width="100%"/>
+
+# 🪐 Featured Constellations
 
 <div align="center">
 
-## 🌠 Tonight's Constellation
-
-*"Stars don't compete.*
-
-*They shine together."*
+<img src="assets/planet.svg" width="150"/>
 
 </div>
-
-<img src="assets/planet.svg" width="140"/>
-
-# 🪐 Featured Constellations
 
 | Planet | Description |
 |---------|-------------|
@@ -101,21 +97,23 @@ Life Philosophy:
 | 🌕 Data Analytics Dashboard | Tableau, Python & Power BI |
 | ☄️ Web Development | React, Node.js & Full Stack Applications |
 
-<img src="assets/rocket.svg" width="140"/>
+<img src="assets/divider.svg" width="100%"/>
 
 # 📊 GitHub Universe
 
 <div align="center">
 
+<img src="assets/rocket.svg" width="120"/>
+
+<br><br>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -127,19 +125,23 @@ Life Philosophy:
 
 </div>
 
-<img src="assets/galaxy.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
+
+# 🌌 Let's Connect
 
 <div align="center">
-
-## 🌌 Let's Connect
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -147,14 +149,6 @@ Life Philosophy:
 
 </div>
 
+<br>
+
 <img src="assets/footer.svg" width="100%"/>
-
-<div align="center">
-
-<img src="assets/moon.svg" width="120"/>
-
-### ⭐ Thanks for Visiting My Universe ⭐
-
-*"Keep building. Keep learning. Keep shining."*
-
-</div>
