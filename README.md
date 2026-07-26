@@ -6,6 +6,39 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C8B6FF&center=true&vCenter=true&width=900&lines=%E2%9D%AF+python+niharika.py;Loading+Creativity...;Building+Intelligent+Solutions...;Training+AI+Models...;Turning+Data+Into+Insights...;Deploying+Dreams...;Mission%3A+Reach+The+Stars+%F0%9F%9A%80"/>
 
+<div align="center">
+
+![](https://img.shields.io/badge/📍_Mumbai-India-7C3AED?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/🎓_CGPA-9.50[Cumulative]-3B82F6?style=for-the-badge)
+![](https://img.shields.io/badge/🤖_AI_&_ML-Enthusiast-A855F7?style=for-the-badge)
+
+<br>
+
+![](https://img.shields.io/badge/📊_Data_Analytics-Python_|_Tableau-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/💻_Open_to-Collaborate-22C55E?style=for-the-badge)
+
+<br>
+
+![](https://img.shields.io/badge/🏆_Hackathons-Always_Ready-F97316?style=for-the-badge)
+![](https://img.shields.io/badge/🌌_Currently-Building_AI_Projects-8B5CF6?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/nihacode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nihax/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nihacodes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 <img src="assets/stars.svg" width="100%"/>
 
