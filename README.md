@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C8B6FF&center=true&vCenter=true&width=900&lines=%E2%9D%AF+python+niharika.py;Loading+Creativity...;Building+Intelligent+Solutions...;Training+AI+Models...;Turning+Data+Into+Insights...;Deploying+Dreams...;Mission%3A+Reach+The+Stars+%F0%9F%9A%80"/>
 
+<br>
+
 <div align="center">
 
 ![](https://img.shields.io/badge/📍_Mumbai-India-7C3AED?style=for-the-badge&logoColor=white)
