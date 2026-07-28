@@ -1,0 +1,33 @@
+<text x="530" y="137" fill="#E9D5FF" font-family="JetBrains Mono" font-size="15" text-anchor="end">
+    0%
+    <set attributeName="visibility" to="hidden" begin="1s"/>
+</text>
+
+<text x="530" y="137" fill="#E9D5FF" font-family="JetBrains Mono" font-size="15" text-anchor="end" visibility="hidden">
+    20%
+    <set attributeName="visibility" to="visible" begin="1s"/>
+    <set attributeName="visibility" to="hidden" begin="2s"/>
+</text>
+
+<text x="530" y="137" fill="#E9D5FF" font-family="JetBrains Mono" font-size="15" text-anchor="end" visibility="hidden">
+    40%
+    <set attributeName="visibility" to="visible" begin="2s"/>
+    <set attributeName="visibility" to="hidden" begin="3s"/>
+</text>
+
+<text x="530" y="137" fill="#E9D5FF" font-family="JetBrains Mono" font-size="15" text-anchor="end" visibility="hidden">
+    60%
+    <set attributeName="visibility" to="visible" begin="3s"/>
+    <set attributeName="visibility" to="hidden" begin="4s"/>
+</text>
+
+<text x="530" y="137" fill="#E9D5FF" font-family="JetBrains Mono" font-size="15" text-anchor="end" visibility="hidden">
+    80%
+    <set attributeName="visibility" to="visible" begin="4s"/>
+    <set attributeName="visibility" to="hidden" begin="5s"/>
+</text>
+
+<text x="530" y="137" fill="#E9D5FF" font-family="JetBrains Mono" font-size="15" text-anchor="end" visibility="hidden">
+    100%
+    <set attributeName="visibility" to="visible" begin="5s"/>
+</text>
