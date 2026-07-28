@@ -42,59 +42,81 @@
 
 </div>
 
-<img src="assets/stars.svg" width="100%"/>
-
 <br>
 
 <img src="assets/wave.svg" width="100%"/>
 
+<img src="assets/stars.svg" width="100%"/>
+
+</div>
+
 # 🌙 About Me
 
-```yaml
-Name: Niharika Singh
+```bash
+❯ cat /home/niharika/profile.txt
 
-Location: Mumbai, India
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Roles:
-  - Software Developer
-  - Data Analyst
-  - AI & ML Enthusiast
+Name          :: Niharika Singh
 
-Currently Learning:
-  - Deep Learning
-  - Machine Learning
-  - Cloud Computing
-  - Generative AI
+Role          :: Software Developer
+                 Frontend Developer
+                 AI & ML Enthusiast
+                 Data Analyst
 
-Interests:
-  - Hackathons
-  - Open Source
-  - Data Analytics
-  - Problem Solving
+Education     :: B.Tech Computer Science Engineering
+                 K. J. Somaiya College of Engineering
+                 (Business Systems)
+                 Honors in Quantum Computing &
+                 Generative AI
 
-Life Philosophy:
-  "Keep building.
-   Keep learning.
-   Keep shining."
+Location      :: Mumbai, India
+
+Tech Stack    :: React • Flask • Tailwind CSS
+                 HTML • CSS • JavaScript
+                 Python • SQL • Git • Figma
+
+Experience
+──────────────────────────────────────────────────────────
+
+▶ Frontend Web Developer Intern @ ZecBay
+  • Built a responsive e-commerce platform
+    using HTML, CSS & Flask
+  • Designed UI/UX prototypes in Figma
+  • Contributed to a launch that achieved
+    500+ user sign-ups in the first month
+
+▶ Software Development Intern @ Ridlin
+  • Developed the complete Marketplace
+    module using React & Tailwind CSS
+  • Built Business Dashboard Settings
+    and Analytics interfaces
+  • Worked in a production-level startup
+    environment
+
+Current Focus
+──────────────────────────────────────────────────────────
+
+→ Artificial Intelligence
+→ Machine Learning
+→ Data Analytics
+→ Frontend Development
+→ Building impactful software solutions
+
+Mission
+──────────────────────────────────────────────────────────
+
+Design and develop intelligent, user-centric
+applications that solve real-world problems
+through AI, data, and modern web technologies.
+
+Status        :: ONLINE 🟢
+Next Mission  :: Keep Learning.
+                 Keep Building.
+                 Keep Creating. 🚀
 ```
 
 <img src="assets/stars.svg" width="100%"/>
-
-# 🚀 Current Mission
-
-```text
-🌌 AI Projects
-██████████████████░░ 90%
-
-📊 Data Analytics
-████████████████░░░░ 80%
-
-🤖 Deep Learning
-██████████████░░░░░░ 70%
-
-☁ Cloud Computing
-████████████░░░░░░░░ 60%
-```
 
 
 # ⭐ Tech Galaxy
