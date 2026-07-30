@@ -212,9 +212,9 @@ niharika = {
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nihacode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nihacode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihacode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=E2E8F0&langs_count=8"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihacode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=E2E8F0&langs_count=8"/>
 
 <br><br>
 
@@ -222,7 +222,7 @@ niharika = {
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nihacode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=FFD700&text_color=E2E8F0&include_all_commits=true&count_private=true&custom_title=⭐+All+Time+Commit+Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nihacode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=FFD700&text_color=E2E8F0&include_all_commits=true&count_private=true&custom_title=⭐+All+Time+Commit+Stats"/>
 
 <br><br>
 
@@ -238,12 +238,12 @@ niharika = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nihacode/nihacode/output/github-contribution-grid-snake-dark.svg" alt="The Sun eating Niharika's contribution snake — run the GitHub Action to generate!"/>
+<img src="https://raw.githubusercontent.com/nihacode/nihacode/output/github-contribution-grid-snake-dark.svg?v=1" alt="The Sun eating Niharika's contribution snake — run the GitHub Action to generate!"/>
 
 <br><br>
 
-<!-- Contribution Heatmap via githubtrends -->
-<img src="https://api.githubtrends.io/user/svg/nihacode/langs?time_range=one_year&theme=classic&compact=true" alt="Language Heatmap"/>
+<!-- Contribution Heatmap via github-profile-summary-cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihacode&theme=tokyonight" alt="Language Commit Breakdown"/>
 
 <br><br>
 
