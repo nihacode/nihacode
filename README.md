@@ -240,18 +240,13 @@ niharika = {
 
 <img src="https://raw.githubusercontent.com/nihacode/nihacode/output/github-contribution-grid-snake-dark.svg?v=2" alt="The Sun devouring Niharika's contribution grid ☀️"/>
 
+<br>
+<sub>🌞 <i>The Sun animation above auto-updates daily via GitHub Actions!</i></sub>
+
 <br><br>
 
 <!-- Contribution Heatmap via github-profile-summary-cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihacode&theme=tokyonight" alt="Language Commit Breakdown"/>
-
-<br><br>
-
-<!-- Full contribution calendar -->
-<img src="https://ghchart.rshah.org/7C3AED/nihacode" alt="Niharika's GitHub Contribution Chart 🌌"/>
-
-<br>
-<sub>🌞 <i>The Sun animation above auto-updates daily via GitHub Actions — trigger the <b>solar-hunger</b> workflow once to activate it!</i></sub>
 
 </div>
 
