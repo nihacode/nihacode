@@ -238,7 +238,7 @@ niharika = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nihacode/nihacode/output/github-contribution-grid-snake-dark.svg?v=1" alt="The Sun eating Niharika's contribution snake — run the GitHub Action to generate!"/>
+<img src="https://raw.githubusercontent.com/nihacode/nihacode/output/github-contribution-grid-snake-dark.svg?v=2" alt="The Sun devouring Niharika's contribution grid ☀️"/>
 
 <br><br>
 
