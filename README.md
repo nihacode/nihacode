@@ -11,7 +11,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/📍_Mumbai-India-FFD700?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/🎓_CGPA-9.30_Cumulative-C084FC?style=for-the-badge)
+![](https://img.shields.io/badge/🎓_CGPA-9.50_Cumulative-C084FC?style=for-the-badge)
 ![](https://img.shields.io/badge/⚡_Status-Currently_Shipping-22C55E?style=for-the-badge)
 
 <br>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mail.niharika.s.3@gmail.com">
+<a href="mailto:nihacodes2024@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -60,14 +60,12 @@
 ║              ✦  NIHARIKA_SINGH.stellar  v2026.LTS  ✦                ║
 ╠══════════════════════════════════════════════════════════════════════╣
 
-niharika = {
-    "role"        : "SDE Intern @ Ridlin 🚀",
-    "also"        : "Joint Technical Head @ ECESA, KJSSE 🎖️",
+niharika = { 
     "education"   : "B.Tech CSBS @ KJ Somaiya School of Engineering 🎓",
     "honors"      : "Quantum Computing & Generative AI ✨",
-    "cgpa"        : 9.30,
+    "cgpa"        : 9.50,
     "location"    : "Mumbai, India 🇮🇳  (UTC +5:30)",
-    "contact"     : "mail.niharika.s.3@gmail.com 📡",
+    "contact"     : "nihacodes2024@gmail.com 📡",
 
     "orbital_stack": [
         "MERN Stack     →  React.js | Next.js | Node.js | Express",
@@ -88,7 +86,6 @@ niharika = {
     },
 
     "current_mission"  : "Build things that outlive the sprint 🌠",
-    "fun_fact"         : "I shipped 12 production pages & ran a 300-person hackathon. Simultaneously. 💀",
 }
 
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -100,16 +97,13 @@ niharika = {
 
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║  🚀  12+ PRODUCTION PAGES  ─  End-to-end marketplace @ Ridlin         ║
-║                                                                        ║
-║  🌟  500+ USERS  ─  Acquired in month 1 of e-commerce launch          ║
+║                                                                        ║        ║
 ║  🎮  MURDER MYSTERY  ─  Full-stack game for 100+ live participants     ║
 ║  📊  UIDAI HACKATHON  ─  Aadhar Analytics Dashboard, 2026             ║
 ║  🌾  STANS PLATFORM  ─  Farmer empowerment site, deployed & live      ║
 ║  👥  300+ PARTICIPANTS  ─  AgriTech hackathon lead, 70+ teams         ║
 ║  🎖️  JOINT TECH HEAD  ─  ECESA, KJSSE Technical Council               ║
-║  🎓  CGPA 9.30  ─  Honors: Quantum Computing + Generative AI         ║
+║  🎓  CGPA 9.50  ─  Honors: Quantum Computing + Generative AI         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 ```
@@ -124,7 +118,7 @@ niharika = {
 |------------|-----------|-------------|
 | 🕵️ Murder Mystery — Abhiyantriki 2025 | React · TypeScript · Node.js | [murder-mystery-cyan.vercel.app](https://murder-mystery-cyan.vercel.app) |
 | 🌾 S.T.A.N.S — Farmer Empowerment Platform | React.js · Tailwind CSS · Vercel | [stans.vercel.app](https://stans.vercel.app) |
-| 📊 Aadhar Enrolment Analytics Dashboard | Tableau · Excel · Canva | UIDAI Hackathon 2026 |
+| 📊 Aadhar Enrolment Analytics Dashboard | Tableau · Excel · Canva | DEMO:https://www.linkedin.com/feed/update/urn:li:activity:7423332804542816256/?rcm=ACoAAE-3RioBR7dRNSgugAAcLCHxBCwxo85SlJE | 
 
 ---
 
@@ -136,11 +130,11 @@ niharika = {
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=8"/>
 
-### 🎨 Frontend Nebula
+### 🎨 Frontend 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&perline=8"/>
 
-### 🚀 Backend Orbit
+### 🚀 Backend 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask&perline=8"/>
 
@@ -163,14 +157,14 @@ niharika = {
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[ACTIVE]   SDE Intern @ Ridlin                  Jul 2025 – Sep 2025
+[PAST]   SDE Intern @ Ridlin                  Jul 2025 – Sep 2025
            → Architected 12+ production-grade pages (Marketplace)
            → React.js + Next.js + Tailwind CSS — modular & scalable
            → Business Dashboard: Settings & Analytics modules
            → RESTful API integration + lazy loading + perf tuning
            → Result: smooth cross-device UX across all screen sizes
 
-[ACTIVE]   Joint Technical Head @ ECESA, KJSSE  Aug 2025 – Mar 2026
+[PAST]   Joint Technical Head @ ECESA, KJSSE  Aug 2025 – Mar 2026
            → Ran infra for national AgriTech hackathon: 70+ teams
            → 300+ participants — live issue resolution under pressure
            → Executed all technical events for Abhiyantriki 2025
@@ -197,8 +191,6 @@ niharika = {
 | 🪐 Constellation | 🌌 Orbit | 📡 Signal |
 |-------------------|----------|-----------|
 | 🕵️ **Murder Mystery** — Abhiyantriki 2025 | Full-stack technical game for 100+ live participants; forensic logic, multi-round challenges, TypeScript real-time branching | 35-40% completion rate; fastest solve: 1h 43m |
-| 📊 **Aadhar Enrolment Dashboard** — UIDAI Hackathon 2026 | State & district-level KPIs, rankings, trends, interactive filters | Tableau · Excel · Canva |
-| 🌾 **S.T.A.N.S** — Farmer Empowerment Platform | Production-grade responsive website; optimized UI/UX; cross-device | React.js · Tailwind CSS · Vercel |
 
 </div>
 
@@ -261,46 +253,6 @@ niharika = {
 </div>
 
 ---
-
-## 🌌 STAR MAP — `education.stellar`
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  🎓  B.Tech Computer Science (Business Systems)                ║
-║      KJ Somaiya School of Engineering  |  2024–2028            ║
-║      CGPA: 9.30  |  Honors: Quantum Computing + GenAI  🌌     ║
-║                                                                ║
-║  📚  12th Boards — PACE Junior Science College  |  2024        ║
-║      Score: 75.5%                                              ║
-║                                                                ║
-║  📚  10th Boards — Podar International School  |  2022         ║
-║      Score: 93.2%  🏅                                          ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🚀 TRANSMISSION COMPLETE — `signal_out.txt`
-
-<div align="center">
-
-```
-█████████████████████████████████████████████████████████████████
-█                                                               █
-█   ✦  "Ship fast. Design beautifully. Analyze deeply."  ✦     █
-█                                                               █
-█   > OPEN TO  :  Internships | Collabs | Hackathons            █
-█   > REACH ME :  mail.niharika.s.3@gmail.com                   █
-█   > GITHUB   :  github.com/nihacode                           █
-█   > LINKEDIN :  linkedin.com/in/nihax                         █
-█                                                               █
-█   > STATUS   :  🟢 ONLINE — Currently building something     █
-█                  that doesn't exist yet.                      █
-█                                                               █
-█████████████████████████████████████████████████████████████████
-```
 
 <br>
 
